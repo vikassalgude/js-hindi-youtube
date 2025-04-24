@@ -18,7 +18,19 @@
 // let booleanisLoggedIn=Boolean(isLoggedIn)
 // console.log(booleanisLoggedIn)
 
-let a=33
-let s=String(a)
-console.log(typeof s)
+// let a=33
+// let s=String(a)
+// console.log(typeof s)
+
+// ************Operations****************
+// let value=3
+// let negval=-value
+// console.log(value)
+// console.log(negval)
+let str1="vikas"
+let str2="salgude"
+let str3=str1+str2
+console.log(str3)
+
+
 
