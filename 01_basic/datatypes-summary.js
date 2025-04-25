@@ -1,4 +1,4 @@
- "use strict"// treat all JS code as newer version
+ "use strict"// treat all JS code as newer version 
 // //primmitive data types
 // // 7 types string number boolean null undefined symbol BigInt
 // const score=22
